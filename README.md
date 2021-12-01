@@ -9,3 +9,6 @@ random
 
 
 To understand all the parameters that can be adjsted one is referred to check: https://www.med.upenn.edu/longding1/javascript/DDM_LongDing.html and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2474742/
+
+to run the simulation just update the path such that your files will get saved to the right place
+
